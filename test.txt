@@ -1,1 +1,2 @@
 Hi welcome to Gen AI Learning
+Today i learned about data ingestion
